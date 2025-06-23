@@ -5,7 +5,6 @@ A full-stack web application for managing parking lot reservations with separate
 > ⚠️ This project is currently under academic evaluation at IIT Madras as part of a modern application development coursework submission.  
 > 🛠️ Code will be published here once the evaluation is complete (expected August 2025).
 
----
 
 ## 📌 Overview
 
@@ -17,7 +16,6 @@ Admins can:
 - Create, update, or delete parking lots and spots
 - View all user reservations and analytics
 
----
 
 ## 🛠 Tech Stack
 
@@ -26,7 +24,6 @@ Admins can:
 - SQLite
 - Jinja2 Templates
 
----
 
 ## 👷 Project Status
 
@@ -35,13 +32,11 @@ Admins can:
 ✅ Reservation System (80% complete)  
 🔄 Final Testing & Deployment (Pending)
 
----
 
 ## 🗓️ Public Release
 
 The source code will be made public here after formal academic evaluation is completed in **August 2025**.
 
----
 
 ## 🙋‍♀️ Author
 
